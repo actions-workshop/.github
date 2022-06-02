@@ -1,0 +1,5 @@
+{
+  "name": "Hello World Starter Action",
+  "description": "Action to print hello world as a starter for the workshop.",
+  "iconName": "github-octocat"
+}
