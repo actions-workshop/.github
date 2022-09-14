@@ -27,6 +27,8 @@ jobs:
       uses:  davelosert/vitest-coverage-report-action@v1
     
   package-and-publish:
+    if: github.event_name != 'pull_request'
+    
     needs: 
       - build
 
