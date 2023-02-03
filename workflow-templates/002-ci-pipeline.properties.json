@@ -1,0 +1,5 @@
+{
+  "name": "002 - CI Pipeline",
+  "description": "Solution workflow to Part 002 - Basics of CI with Actions",
+  "iconName": "github-octocat"
+}
